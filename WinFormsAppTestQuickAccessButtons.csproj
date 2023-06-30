@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+	<ItemGroup>
+		
+		<PackageReference Include="DevExpress.Data.Desktop" Version="22.2.5" />
+		<PackageReference Include="DevExpress.Mvvm" Version="22.2.5" />
+		<PackageReference Include="DevExpress.Win" Version="22.2.5" />
+		<PackageReference Include="DevExpress.Win.Design" Version="22.2.5" />
+		<PackageReference Include="DevExpress.Win.Gauges" Version="22.2.5" />
+		<PackageReference Include="DevExpress.Wpf.Core" Version="22.2.5" />
+		<PackageReference Include="DevExpress.Wpf.Themes.Office2016White" Version="22.2.5" />
+	</ItemGroup>
+
+</Project>
