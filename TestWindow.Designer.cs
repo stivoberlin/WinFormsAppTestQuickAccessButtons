@@ -1,5 +1,6 @@
-﻿namespace Tools3.Presentation.Controls.WinForm.Tools3Windows
-{
+﻿namespace WinFormsAppTestQuickAccessButtons
+{ 
+
     partial class TestWindow
     {
         /// <summary>

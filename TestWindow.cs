@@ -1,6 +1,6 @@
 ﻿
 
-namespace Tools3.Presentation.Controls.WinForm.Tools3Windows
+namespace WinFormsAppTestQuickAccessButtons
 {
     public partial class TestWindow : DevExpress.XtraBars.Ribbon.RibbonForm
     {

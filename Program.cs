@@ -1,4 +1,3 @@
-using Tools3.Presentation.Controls.WinForm.Tools3Windows;
 
 namespace WinFormsAppTestQuickAccessButtons
 {
